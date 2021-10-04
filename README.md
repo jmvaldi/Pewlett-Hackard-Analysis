@@ -8,4 +8,5 @@ This is a diagram of the csv files that were used for the analysis:
 
 ## Results
 
-The first task that was done was to create a table of the number of retiring employees by their title. 
+The first task that was done was to create a table of the number of retiring employees by their title. The analysis highlighted that there are about 90,300 employees that are likely to retire in the foreseeable. About 57,600 of those employees are of senior level. About 43,600 of those are engineers. These two positions are top priority to find potential candidates to takeover when the tsunami hits. 
+
